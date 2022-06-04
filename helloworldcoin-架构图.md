@@ -1,5 +1,5 @@
 ## 架构图
-![helloworldcoin-java架构图](https://user-images.githubusercontent.com/49269996/131206309-bf32c2de-efd3-4c0e-b075-e465fc53ffeb.png)
+![helloworldcoin-java架构图](https://user-images.githubusercontent.com/98028742/171986663-1de7ae08-6a50-4206-9186-6103b10bcacf.png)
 
 
 
